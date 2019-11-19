@@ -1,6 +1,11 @@
 ## Welcome
 Welcome to my personal webpage. Hello world
 
+## Things I'm passionate about
+
+### Languages, specially my own
+I collaborate from time to time with [Mozilla's Common Voice] (https://voice.mozilla.org/ca).
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/saugch/saugch.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
