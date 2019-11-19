@@ -1,5 +1,5 @@
 ## Welcome
-Welcome to my personal webpage. Hey! You!
+Welcome to my personal webpage. Hello world
 
 ## Welcome to GitHub Pages
 
